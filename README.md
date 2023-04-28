@@ -1,7 +1,7 @@
 
 # Flipkart Clone MERN APP
 
-[Dhaval Patel's](https://github.com/dhavalnpatel/) Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
+[Ojjuas Gupta's](https://github.com/OjjuasGupta/) Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart.
 - It has strong authentication system  with SMS OTP verification. 
 - It has Paytm Integration so that it can get money from anywhere.
 
@@ -48,7 +48,7 @@ https://flipkart-web.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/dhavalnpatel/flipkart-clone.git
+  git clone https://github.com/OjjuasGupta/flipkart-clone.git
 ```
 
 Go to the project directory
@@ -114,5 +114,5 @@ To run this project, you will need to add the following environment variables to
 
 If any query please contact on 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavaln-patel)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/OjjuasGupta)
 
