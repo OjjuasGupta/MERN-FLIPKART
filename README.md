@@ -28,8 +28,6 @@
 
 ## 🚀 LIVE APP
 
-https://flipkart-web.vercel.app/
-
 
 ##  🖥️ Tech Stack
 
